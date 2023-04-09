@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employees>
+    <employee>
+        <empId>101</empId>
+        <empName>Sarah Johnson</empName>
+        <phone>1234879</phone>
+        <email>sarahj@acme.com</email>
+        <salary>20000.0</salary>
+        <role>HR Manager</role>
+    </employee>
+    <employee>
+        <empId>102</empId>
+        <empName>Alex Smith</empName>
+        <phone>55765</phone>
+        <email>asmith@acme.com</email>
+        <salary>90000.0</salary>
+        <role>General Manager</role>
+    </employee>
+    <employee>
+        <empId>103</empId>
+        <empName>Francois Dupont</empName>
+        <phone>8733454</phone>
+        <email>dupont@acme.com</email>
+        <salary>78000.0</salary>
+        <role>Senior Developer</role>
+    </employee>
+    <employee>
+        <empId>12345</empId>
+        <empName>Sabine Delettre</empName>
+        <phone>003345678923</phone>
+        <email>sb@mail.fr</email>
+        <salary>45000.0</salary>
+        <role>GÃ©rante</role>
+    </employee>
+</employees>
