@@ -22,7 +22,7 @@ public class GetOneCustServlet extends HttpServlet {
 	private static final String DB_DRIVER = "com.mysql.cj.jdbc.Driver";
 	private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/myDB?useSSL=false";
 	private static final String USERNAME = "root";
-	private static final String PASSWORD = "lake blue";
+	private static final String PASSWORD = "password";
 
 	/**
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse
